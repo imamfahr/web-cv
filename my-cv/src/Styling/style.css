@@ -1,0 +1,44 @@
+/* color palette */
+
+.grey1 {
+    color: #d8d7dd
+}
+
+.grey2 {
+    color: #a6a5a4
+}
+
+.grey3 {
+    color: #3c3d3e
+}
+
+.grey4 {
+    color: #0c0d0d
+}
+
+.aWholePage {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    display: table;
+}
+
+/* personal info side */
+
+.personalInfo-side {
+    float: left;
+    width: 30%;
+}
+
+/* experience side */
+
+.experience-side{
+    float: right;
+    width: 70%;
+}
+
+.header{
+    text-align: right;
+    padding: 5px;
+    padding-right: 50px;
+}
